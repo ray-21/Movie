@@ -1,0 +1,16 @@
+/Users/shivmitra/Projects/MoviesAppCore/MovieData/bin/Debug/netcoreapp3.1/MovieData.deps.json
+/Users/shivmitra/Projects/MoviesAppCore/MovieData/bin/Debug/netcoreapp3.1/MovieData.runtimeconfig.json
+/Users/shivmitra/Projects/MoviesAppCore/MovieData/bin/Debug/netcoreapp3.1/MovieData.runtimeconfig.dev.json
+/Users/shivmitra/Projects/MoviesAppCore/MovieData/bin/Debug/netcoreapp3.1/MovieData.dll
+/Users/shivmitra/Projects/MoviesAppCore/MovieData/bin/Debug/netcoreapp3.1/MovieData.pdb
+/Users/shivmitra/Projects/MoviesAppCore/MovieData/bin/Debug/netcoreapp3.1/MovieEntity.dll
+/Users/shivmitra/Projects/MoviesAppCore/MovieData/bin/Debug/netcoreapp3.1/MovieEntity.pdb
+/Users/shivmitra/Projects/MoviesAppCore/MovieData/obj/Debug/netcoreapp3.1/MovieData.csproj.AssemblyReference.cache
+/Users/shivmitra/Projects/MoviesAppCore/MovieData/obj/Debug/netcoreapp3.1/MovieData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shivmitra/Projects/MoviesAppCore/MovieData/obj/Debug/netcoreapp3.1/MovieData.AssemblyInfoInputs.cache
+/Users/shivmitra/Projects/MoviesAppCore/MovieData/obj/Debug/netcoreapp3.1/MovieData.AssemblyInfo.cs
+/Users/shivmitra/Projects/MoviesAppCore/MovieData/obj/Debug/netcoreapp3.1/MovieData.csproj.CoreCompileInputs.cache
+/Users/shivmitra/Projects/MoviesAppCore/MovieData/obj/Debug/netcoreapp3.1/MovieData.csproj.CopyComplete
+/Users/shivmitra/Projects/MoviesAppCore/MovieData/obj/Debug/netcoreapp3.1/MovieData.dll
+/Users/shivmitra/Projects/MoviesAppCore/MovieData/obj/Debug/netcoreapp3.1/MovieData.pdb
+/Users/shivmitra/Projects/MoviesAppCore/MovieData/obj/Debug/netcoreapp3.1/MovieData.genruntimeconfig.cache
