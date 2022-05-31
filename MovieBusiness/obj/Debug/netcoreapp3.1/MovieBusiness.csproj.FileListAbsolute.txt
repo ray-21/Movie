@@ -1,0 +1,15 @@
+/Users/shivmitra/Projects/MoviesAppCore/MovieBusiness/bin/Debug/netcoreapp3.1/MovieBusiness.deps.json
+/Users/shivmitra/Projects/MoviesAppCore/MovieBusiness/bin/Debug/netcoreapp3.1/MovieBusiness.dll
+/Users/shivmitra/Projects/MoviesAppCore/MovieBusiness/bin/Debug/netcoreapp3.1/MovieBusiness.pdb
+/Users/shivmitra/Projects/MoviesAppCore/MovieBusiness/bin/Debug/netcoreapp3.1/MovieData.dll
+/Users/shivmitra/Projects/MoviesAppCore/MovieBusiness/bin/Debug/netcoreapp3.1/MovieEntity.dll
+/Users/shivmitra/Projects/MoviesAppCore/MovieBusiness/bin/Debug/netcoreapp3.1/MovieEntity.pdb
+/Users/shivmitra/Projects/MoviesAppCore/MovieBusiness/bin/Debug/netcoreapp3.1/MovieData.pdb
+/Users/shivmitra/Projects/MoviesAppCore/MovieBusiness/obj/Debug/netcoreapp3.1/MovieBusiness.csproj.AssemblyReference.cache
+/Users/shivmitra/Projects/MoviesAppCore/MovieBusiness/obj/Debug/netcoreapp3.1/MovieBusiness.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shivmitra/Projects/MoviesAppCore/MovieBusiness/obj/Debug/netcoreapp3.1/MovieBusiness.AssemblyInfoInputs.cache
+/Users/shivmitra/Projects/MoviesAppCore/MovieBusiness/obj/Debug/netcoreapp3.1/MovieBusiness.AssemblyInfo.cs
+/Users/shivmitra/Projects/MoviesAppCore/MovieBusiness/obj/Debug/netcoreapp3.1/MovieBusiness.csproj.CoreCompileInputs.cache
+/Users/shivmitra/Projects/MoviesAppCore/MovieBusiness/obj/Debug/netcoreapp3.1/MovieBusiness.csproj.CopyComplete
+/Users/shivmitra/Projects/MoviesAppCore/MovieBusiness/obj/Debug/netcoreapp3.1/MovieBusiness.dll
+/Users/shivmitra/Projects/MoviesAppCore/MovieBusiness/obj/Debug/netcoreapp3.1/MovieBusiness.pdb

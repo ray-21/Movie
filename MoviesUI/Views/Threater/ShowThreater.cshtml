@@ -1,0 +1,58 @@
+﻿@model IEnumerable<MovieEntity.Models.ThreaterModel>
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+
+@{
+    ViewData["Title"] = "ShowThreater";
+}
+
+<h1>ShowThreater</h1>
+
+<table class="table table-dark table-striped">
+    <thead>
+        <tr>
+            <th>
+                Sr. No
+            </th>
+            <th>
+                Threater Name
+            </th>
+            <th>
+                Threater Location
+            </th>
+            <th>
+                Threater Capacity
+            </th>
+            <th>
+                Action-1
+            </th>
+            <th>
+                Action-2
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @item.ThreaterId
+                </td>
+                <td>
+                    @item.ThreaterName
+                </td>
+                <td>
+                    @item.ThreaterLocation
+                </td>
+                <td>
+                    @item.ThreaterCapacity
+                </td>
+                <td>
+                    <a asp-controller="Threater" asp-action="UpdateTheter" asp-route-ThreaterId="@item.ThreaterId">Edit Threater</a>
+                </td>
+                <td>
+                    <a asp-controller="Threater" asp-action="DeleteThetre" asp-route-ThreaterId="@item.ThreaterId">Edit Threater</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
